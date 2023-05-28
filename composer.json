@@ -1,21 +1,11 @@
 {
-  "name": "stepanenko3/nova-json",
+  "name": "runtheons/nova-json",
   "description": "Nova json field to spread a json column throughout multiple fields.",
   "type": "package",
   "license": "MIT",
   "keywords": [
     "laravel",
     "nova"
-  ],
-  "authors": [
-    {
-      "name": "Artem Stepanenko",
-      "email": "stpnnk.artem@gmail.com"
-    },
-    {
-      "name": "Krishan Koenig",
-      "email": "krishan.koenig@googlemail.com"
-    }
   ],
   "require": {
     "php": ">=8.0",
